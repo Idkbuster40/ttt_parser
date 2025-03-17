@@ -9,7 +9,7 @@
 
 > It takes an input, like `[[32,32,65535,2,52419,1]]` which is a white texture with noise applied on top. 32*32px. 
 
-> It takes it, and uses some **magic** (which is really just the code converted from js to c) and spits out a texture.
+> It takes it, and uses the parser.
 
 > Then it uses (some) code (which does not exist at the moment of writing this.)
 
